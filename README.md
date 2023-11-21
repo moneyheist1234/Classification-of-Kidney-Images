@@ -14,10 +14,7 @@ OpenCV (cv2)
 NumPy
 Matplotlib
 PIL (Python Imaging Library)
-# Installation
-Clone the repository:
 
-git clone https://github.com/yourusername/medical-image-classification.git
 # Install required libraries:
 
 pip install tensorflow opencv-python numpy matplotlib pillow
